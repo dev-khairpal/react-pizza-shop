@@ -15,4 +15,4 @@ A simple and responsive pizza ordering app built with React. Users can browse th
 - Responsive design
 
 # Deployment Link
-[pizza-shop--live]([URL](https://pizza-shop-dev-khairpal-dev-khairpals-projects.vercel.app/))
+[Link](https://pizza-shop-dev-khairpal-dev-khairpals-projects.vercel.app)
